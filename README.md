@@ -1,7 +1,8 @@
 # Medical_Instrumentation--Research_Methodology
 
 Project in Medical Instrumentation & Research Methodology (MSc: Biomedical Engineering)
-[web scraping, API]
+
+[usage of web scraping and API, to create a BOT that recognizes medical devices]
 
 report: Med Dev Data Retrieval - UDI.pdf
 
