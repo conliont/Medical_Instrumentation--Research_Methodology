@@ -1,6 +1,7 @@
 # Medical_Instrumentation--Research_Methodology
 
 Project in Medical Instrumentation & Research Methodology (MSc: Biomedical Engineering)
+[web scraping, API]
 
 report: Med Dev Data Retrieval - UDI.pdf
 
